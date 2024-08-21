@@ -25,10 +25,10 @@ Various plots are generated to visually represent the data, including histograms
 # Tools and Libraries
 The following Python libraries were used in this project:
 
-Pandas: For data manipulation and analysis.
-NumPy: For numerical operations.
-Matplotlib and Seaborn: For creating visualizations.
-Jupyter Notebook: For interactive analysis and documentation.
+* Pandas: For data manipulation and analysis.
+* NumPy: For numerical operations.
+* Matplotlib and Seaborn: For creating visualizations.
+* Jupyter Notebook: For interactive analysis and documentation.
 
 # Conclusion
 This exploratory data analysis provided a solid foundation for understanding the dataset and preparing it for further analysis or modeling. The insights gained can guide subsequent steps in the data science process, such as feature engineering or predictive modeling.
